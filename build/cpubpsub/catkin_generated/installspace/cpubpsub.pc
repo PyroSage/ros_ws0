@@ -1,0 +1,8 @@
+prefix=/home/bhaskar/ros_ws0/install
+
+Name: cpubpsub
+Description: Description of cpubpsub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

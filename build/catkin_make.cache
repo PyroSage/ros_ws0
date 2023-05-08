@@ -1,0 +1,2 @@
+cpubpsub
+-DCATKIN_DEVEL_PREFIX=/home/bhaskar/ros_ws0/devel -DCMAKE_INSTALL_PREFIX=/home/bhaskar/ros_ws0/install -G Unix Makefiles
